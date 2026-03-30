@@ -23766,6 +23766,14 @@
           "symbol": "SUSX",
           "decimals": 18,
           "logoURI": "https://assets.coingecko.com/coins/images/39895/thumb/IMG_7024.png?1724724019"
+      },
+      {
+           "chainId": 56,
+           "address": "0x4685e0Fa3DF04a51896AE67809dD81363Da77250",
+           "name": "Wrapped SMT",
+           "symbol": "wSMT",
+           "decimals": 8,
+           "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/wSMTbsc.png"
       }
   ],
   "version": {
